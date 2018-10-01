@@ -1,0 +1,16 @@
+CONFIG = {
+    'HAAS_MAIN_URL':''
+    'HAAS_PAGE_TO_SHARE': '',
+    'HAAS_USER': '',
+    'HAAS_PASS':'',
+
+    'TWITTER_CONSUMER_KEY': '',
+    'TWITTER_CONSUMER_SECRET': '',
+    'TWITTER_ACCESS_TOKEN': '',
+    'TWITTER_ACCESS_SECRET': '',
+
+    'DISCORD_BOT_TOKEN': '',
+
+    'HASHTAG_TRADE_DECISION_TEXT': ''
+
+}
